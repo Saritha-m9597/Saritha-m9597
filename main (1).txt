@@ -1,6 +1,0 @@
-import calendar
-year = int(input("enter a year"))
-if calendar.isleap(year):
-  print("it is a leap year")
-else:
-  print("it is not a leap year")
